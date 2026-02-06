@@ -1,0 +1,4 @@
+{"username": "test1", "password": "123456", "first_name": "Fr", "last_name": "Lr", "email": "jkjkjk@yahoo.com", "products": []}
+{"username": "mainn", "password": "Main1234!", "first_name": "First", "last_name": "Last", "email": "mainn@yahoo.de", "products": []}
+{"username": "the", "password": "The1234!", "first_name": "Firtt", "last_name": "Lastr", "email": "last@domain.com", "products": []}
+{"username": "dead", "password": "deaD1234!", "first_name": "ggggg", "last_name": "regtret", "email": "trrf@yahoo.com", "products": [6, 6, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6]}
